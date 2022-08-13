@@ -1,6 +1,6 @@
 READE ME
 
-An OOP of about AFK MMO 
+An OOP about AFK MMO 
 
 Creating a Character, Party, monsters, Maps and more.
 Send individual or a party to train.
